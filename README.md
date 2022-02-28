@@ -33,19 +33,18 @@ Vamos pegar o CPF = 168.995.350-09 como exemplo:
 
 5) Agora multiplicamos como anteriormente, porém agora adicionamos ao cpf o dígito que acabamos de descobrir (novo cpf = 1689953500) e começando a partir do número 11:
  
-     1 * 11 = 11 
-     6 * 10 = 60 
-     8 * 9  = 72 
-     9 * 8  = 72 
-     9 * 7  = 63 
-     5 * 6  = 30 
-     3 * 5  = 15 
-     5 * 4  = 20 
-     0 * 3  = 0 
-     0 * 2  = 0 
-     
-             343
-       11 - (343 % 11) = 9
+     1 * 11 = 11;
+     6 * 10 = 60; 
+     8 * 9  = 72; 
+     9 * 8  = 72; 
+     9 * 7  = 63; 
+     5 * 6  = 30; 
+     3 * 5  = 15; 
+     5 * 4  = 20; 
+     0 * 3  = 0; 
+     0 * 2  = 0;    
+  
+      11 - (343 % 11) = 9
 
      Digito 2 = 9
 
